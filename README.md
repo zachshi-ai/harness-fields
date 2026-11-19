@@ -85,7 +85,7 @@
 
 ### 许可
 
-本作品采用 [CC BY 4.0](LICENSE) 许可。署名「扎克的自留地」即可自由商用、修改、再分发。
+本仓库采用[非商业许可](LICENSE)，仅限学术研究与非商业用途。非商业使用、复制、分享与修改须保留许可声明并署名作者。任何商业用途均须事先获得作者书面许可。
 
 ---
 
@@ -164,7 +164,7 @@ This repo provides 3 sanitized templates ([examples/](examples/)) you can clone 
 
 ### License
 
-This work is licensed under [CC BY 4.0](LICENSE). Attribution to "扎克的自留地" is sufficient for free commercial use, modification, and redistribution.
+This repository is subject to the [Non-Commercial License](LICENSE) for academic research and non-commercial use only. Non-commercial use, copying, sharing, and modification require retaining the license notice and crediting the author. Any commercial use requires prior written permission from the author.
 
 ---
 
