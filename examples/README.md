@@ -123,5 +123,5 @@ your-harness/
 
 ---
 
-> 基于扎克的自留地的 harness-fields 方法论。CC BY 4.0。
-> Based on 扎克的自留地's harness-fields methodology. CC BY 4.0.
+> 基于扎克的自留地的 harness-fields 方法论。适用[非商业许可](https://github.com/zachshi-ai/harness-fields/blob/main/LICENSE)；须保留许可声明和署名。未经作者事先书面许可，不得商用。
+> Based on 扎克的自留地's harness-fields methodology. Subject to the [Non-Commercial License](https://github.com/zachshi-ai/harness-fields/blob/main/LICENSE); retain the license notice and attribution. Commercial use requires prior written permission from the author.
